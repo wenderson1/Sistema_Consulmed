@@ -1,0 +1,20 @@
+Como utilizar a aplicação web
+
+
+1. Instalar o xampp na máquina
+2. Startar os módulos apache e mysql no xampp
+3. Extrair os arquivos no diretório 'c:/xampp/htdocs'
+4. Acessar no navegador web 'localhost/phpmyadmin'
+5. Criar database 'projeto_aplicacao1'
+6. Importar arquivo script 'projeto_aplicacao1.sql' no phpmyadmin
+-------------------------------------------------------------------------------------------------------------------------------------------------
+7a. Acesse no navegador web 'localhost/recep_final/login_recep_site.php' para o acesso apenas para recepcionista
+8a. Digite '101988' no campo ID Recepcionista e '101988' no campo senha ou crie um novo login diretamente no banco de dados para acessar o sistema
+-------------------------------------------------------------------------------------------------------------------------------------------------
+7b. Acesse no navegador web 'localhost/paci_final/login_site.php' para o acesso do usuário
+8b. Digite '101988' no campo Nº SUS e '101988' no campo Senha ou crie um novo novo cadastro para acessar o sistema.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+9. Navegue pelo sistema!!
+
+
+
